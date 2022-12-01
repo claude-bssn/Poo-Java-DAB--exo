@@ -16,27 +16,27 @@ Interface ClientInterface
   Double verifyAmount
 
 Class Client 
-  String name
-  deposit 
-  transaction
-  getter 
-  setter
+  - String name  
+  - deposit   
+  - transaction   
+  - getter   
+  - setter   
 
 Class Account
-  Double amount 
-  Client client
-  getter 
-  setter
+  - Double amount 
+  - Client client
+  - getter 
+  - setter
 
-Class espèce
-  Double amount
-  getter 
-  setter
+Class Cash
+  - Double amount
+  - getter 
+  - setter
 
-Class chèque 
-  Double amount
-  getter 
-  setter
+Class Check 
+  - Double amount
+  - getter 
+  - setter
 
 <!-- ######## NON ####### -->
 
